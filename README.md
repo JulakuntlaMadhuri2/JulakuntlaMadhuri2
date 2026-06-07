@@ -1,31 +1,41 @@
-# Hi, I'm Madhuri Julakuntla
+# Hi, I'm Madhuri Julakuntla 👋
 
-Computer Science Graduate interested in:
+## About Me
+
+Computer Science graduate interested in:
 
 - Artificial Intelligence
 - Software Development
-- Data Structures & Algorithms
 - Full-Stack Development
+- Data Structures & Algorithms
 
-## Current Goal
+## Current Focus
 
-Building practical AI projects and strengthening software engineering skills.
+🚀 Building practical AI projects and strengthening software engineering skills.
 
 ## Tech Stack
 
 - Python
 - C++
 - Java
-- Git & GitHub
 - SQL
+- Git & GitHub
 
-## Projects
+## Current Project
 
-🚀 DisasterSense AI (In Progress)
+### DisasterSense AI (In Progress)
 
-An AI-powered disaster preparedness and response platform.
+An AI-powered disaster preparedness and response platform designed to provide disaster preparedness information, emergency planning assistance, and multilingual support.
 
-## Connect
+## Learning Goals for 2026
 
-- LinkedIn: 
-- Email:madhuri.julakuntla@gmail.com
+- AI Engineering
+- Retrieval-Augmented Generation (RAG)
+- FastAPI
+- React
+- Software Architecture
+
+## Contact
+
+- LinkedIn: Add your LinkedIn profile
+- Email: Add your professional email
