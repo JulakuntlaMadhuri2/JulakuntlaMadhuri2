@@ -37,5 +37,5 @@ An AI-powered disaster preparedness and response platform designed to provide di
 
 ## Contact
 
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your professional email
+- LinkedIn: 
+- Email: madhuri.julakuntla@gmail.com
