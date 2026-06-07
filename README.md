@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Madhuri Julakuntla
 
-<!--
-**JulakuntlaMadhuri2/JulakuntlaMadhuri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate interested in:
 
-Here are some ideas to get you started:
+- Artificial Intelligence
+- Software Development
+- Data Structures & Algorithms
+- Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goal
+
+Building practical AI projects and strengthening software engineering skills.
+
+## Tech Stack
+
+- Python
+- C++
+- Java
+- Git & GitHub
+- SQL
+
+## Projects
+
+🚀 DisasterSense AI (In Progress)
+
+An AI-powered disaster preparedness and response platform.
+
+## Connect
+
+- LinkedIn: Add your LinkedIn URL
+- Email: Your professional email
